@@ -1,6 +1,6 @@
 import javax.persistence.Entity;
 
-//Teste
+
 
 @Entity
 public class Professor extends Usuario {
